@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0141-linked-list-cycle) |
+| [0147-insertion-sort-list](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0147-insertion-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->
