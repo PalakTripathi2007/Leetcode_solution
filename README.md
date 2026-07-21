@@ -17,14 +17,17 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0110-balanced-binary-tree) |
 ## Array
 |  |
@@ -50,4 +53,8 @@
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0147-insertion-sort-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
