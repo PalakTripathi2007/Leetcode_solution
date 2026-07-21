@@ -19,6 +19,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 ## Array
 |  |
 | ------- |
@@ -57,4 +59,9 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0098-validate-binary-search-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
