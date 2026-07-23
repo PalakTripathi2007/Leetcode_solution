@@ -9,6 +9,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0147-insertion-sort-list) |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0100-same-tree) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
