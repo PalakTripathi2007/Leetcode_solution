@@ -44,6 +44,7 @@
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0135-candy) |
 | [1352-product-of-the-last-k-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 ## Math
 |  |
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0024-swap-nodes-in-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
