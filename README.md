@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0135-candy) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1352-product-of-the-last-k-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
@@ -107,4 +108,5 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
