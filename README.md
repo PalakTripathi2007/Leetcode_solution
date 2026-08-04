@@ -31,6 +31,7 @@
 | [0110-balanced-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
@@ -43,6 +44,7 @@
 | [0110-balanced-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [0110-balanced-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 ## Array
 |  |
