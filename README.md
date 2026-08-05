@@ -33,6 +33,7 @@
 | [0112-path-sum](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
+| [0404-sum-of-left-leaves](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0404-sum-of-left-leaves](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | [0112-path-sum](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
+| [0404-sum-of-left-leaves](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
 ## Array
 |  |
 | ------- |
@@ -109,6 +112,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
 ## Recursion
 |  |
 | ------- |
