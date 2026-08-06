@@ -34,6 +34,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
+| [0897-increasing-order-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0112-path-sum](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
+| [0897-increasing-order-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
+| [0897-increasing-order-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0897-increasing-order-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -98,6 +101,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0897-increasing-order-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -125,6 +129,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0897-increasing-order-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
