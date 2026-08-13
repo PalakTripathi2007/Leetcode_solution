@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0232-implement-queue-using-stacks) |
 | [1352-product-of-the-last-k-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
@@ -152,6 +153,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0897-increasing-order-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0897-increasing-order-search-tree) |
 ## Dynamic Programming
 |  |
@@ -166,4 +168,5 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
