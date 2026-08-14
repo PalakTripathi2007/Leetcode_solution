@@ -43,6 +43,7 @@
 | [0404-sum-of-left-leaves](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0404-sum-of-left-leaves](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | [0404-sum-of-left-leaves](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0938-range-sum-of-bst) |
 ## Array
 |  |
 | ------- |
@@ -122,6 +125,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0938-range-sum-of-bst) |
 ## Bit Manipulation
 |  |
 | ------- |
