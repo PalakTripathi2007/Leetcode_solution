@@ -41,6 +41,7 @@
 | [0226-invert-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
+| [0538-convert-bst-to-greater-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0938-range-sum-of-bst) |
@@ -59,6 +60,7 @@
 | [0226-invert-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
+| [0538-convert-bst-to-greater-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0938-range-sum-of-bst) |
@@ -81,6 +83,7 @@
 | [0226-invert-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
+| [0538-convert-bst-to-greater-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0617-merge-two-binary-trees](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0938-range-sum-of-bst) |
@@ -127,6 +130,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0897-increasing-order-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0938-range-sum-of-bst) |
 ## Bit Manipulation
