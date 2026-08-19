@@ -16,12 +16,14 @@
 | [0147-insertion-sort-list](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -165,6 +168,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0897-increasing-order-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0897-increasing-order-search-tree) |
 ## Dynamic Programming
 |  |
