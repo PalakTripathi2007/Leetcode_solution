@@ -107,12 +107,14 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1352-product-of-the-last-k-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3875-construct-uniform-parity-array-i](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1352-product-of-the-last-k-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3875-construct-uniform-parity-array-i](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Design
 |  |
 | ------- |
