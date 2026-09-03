@@ -13,6 +13,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0147-insertion-sort-list) |
@@ -41,6 +42,7 @@
 | [0110-balanced-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0226-invert-binary-tree) |
@@ -62,6 +64,7 @@
 | [0110-balanced-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -86,6 +89,7 @@
 | [0110-balanced-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0226-invert-binary-tree) |
@@ -161,6 +165,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0617-merge-two-binary-trees) |
