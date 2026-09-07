@@ -23,6 +23,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0015-3sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0119-pascals-triangle-ii) |
@@ -139,6 +141,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0015-3sum) |
 | [0147-insertion-sort-list](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0147-insertion-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search Tree
