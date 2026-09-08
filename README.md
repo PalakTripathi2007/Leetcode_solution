@@ -54,6 +54,7 @@
 | [0617-merge-two-binary-trees](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0938-range-sum-of-bst) |
+| [0993-cousins-in-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0993-cousins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -75,6 +76,7 @@
 | [0617-merge-two-binary-trees](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0938-range-sum-of-bst) |
+| [0993-cousins-in-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0993-cousins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -101,6 +103,7 @@
 | [0617-merge-two-binary-trees](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0938-range-sum-of-bst) |
+| [0993-cousins-in-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0993-cousins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Array
 |  |
@@ -175,6 +178,7 @@
 | [0226-invert-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0617-merge-two-binary-trees) |
+| [0993-cousins-in-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0993-cousins-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
