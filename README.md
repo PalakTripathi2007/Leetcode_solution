@@ -78,6 +78,7 @@
 | [0938-range-sum-of-bst](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0993-cousins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1382-balance-a-binary-search-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [0404-sum-of-left-leaves](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0617-merge-two-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0993-cousins-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Recursion
 |  |
 | ------- |
@@ -214,4 +216,12 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0232-implement-queue-using-stacks) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
