@@ -230,5 +230,6 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0997-find-the-town-judge) |
+| [1791-find-center-of-star-graph](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
