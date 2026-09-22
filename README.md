@@ -8,6 +8,7 @@
 | [0141-linked-list-cycle](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0997-find-the-town-judge](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0997-find-the-town-judge) |
 ## Linked List
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [0135-candy](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0997-find-the-town-judge](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0997-find-the-town-judge) |
 | [1352-product-of-the-last-k-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -227,5 +229,6 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0547-number-of-provinces) |
+| [0997-find-the-town-judge](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
