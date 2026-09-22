@@ -73,6 +73,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0538-convert-bst-to-greater-tree) |
+| [0547-number-of-provinces](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0938-range-sum-of-bst) |
@@ -178,6 +179,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0617-merge-two-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0993-cousins-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
@@ -219,9 +221,11 @@
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
