@@ -123,6 +123,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
 |  |
 | ------- |
@@ -232,4 +233,9 @@
 | [0997-find-the-town-judge](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
