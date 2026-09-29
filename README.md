@@ -70,6 +70,7 @@
 | [0112-path-sum](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
@@ -118,6 +119,7 @@
 | [0119-pascals-triangle-ii](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0200-number-of-islands) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0997-find-the-town-judge](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0997-find-the-town-judge) |
 | [1352-product-of-the-last-k-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
@@ -180,6 +182,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0547-number-of-provinces) |
@@ -224,6 +227,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -237,5 +241,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0200-number-of-islands) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
