@@ -203,6 +203,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0232-implement-queue-using-stacks) |
@@ -243,4 +244,12 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0200-number-of-islands) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/3898-find-the-degree-of-each-vertex) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
