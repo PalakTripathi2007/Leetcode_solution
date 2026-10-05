@@ -220,6 +220,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0897-increasing-order-search-tree) |
 ## Dynamic Programming
 |  |
@@ -270,6 +271,7 @@
 | [0022-generate-parentheses](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -277,6 +279,7 @@
 | [0022-generate-parentheses](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0856-score-of-parentheses) |
 ## Backtracking
 |  |
 | ------- |
