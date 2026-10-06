@@ -209,6 +209,7 @@
 | ------- |
 | [0135-candy](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Stack
 |  |
@@ -222,6 +223,7 @@
 | [0678-valid-parenthesis-string](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0897-increasing-order-search-tree) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -272,6 +274,7 @@
 | [0032-longest-valid-parentheses](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -280,6 +283,7 @@
 | [0032-longest-valid-parentheses](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
 | ------- |
