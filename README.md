@@ -130,6 +130,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1929-concatenation-of-array](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1929-concatenation-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
@@ -292,4 +293,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/1929-concatenation-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
