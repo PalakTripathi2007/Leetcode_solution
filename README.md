@@ -274,6 +274,7 @@
 | [0022-generate-parentheses](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -298,4 +299,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/2778-sum-of-squares-of-special-elements) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
