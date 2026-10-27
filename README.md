@@ -8,6 +8,7 @@
 | [0141-linked-list-cycle](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0229-majority-element-ii](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0229-majority-element-ii) |
 | [0997-find-the-town-judge](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0997-find-the-town-judge) |
 ## Linked List
 |  |
@@ -124,6 +125,7 @@
 | [0135-candy](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0695-max-area-of-island) |
@@ -162,6 +164,7 @@
 | ------- |
 | [0015-3sum](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0015-3sum) |
 | [0147-insertion-sort-list](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0147-insertion-sort-list) |
+| [0229-majority-element-ii](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search Tree
 |  |
@@ -305,4 +308,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0796-rotate-string) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/PalakTripathi2007/Leetcode_solution/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
